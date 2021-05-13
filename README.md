@@ -1,2 +1,2 @@
 # teste-api
-È O TESTE SA MERDA!
+É O TESTE SA MARAVILHA!
